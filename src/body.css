@@ -1,0 +1,44 @@
+.unordered-list {
+	list-style-type :none;
+}
+.under-line-skills {
+	border-bottom : 15px solid grey;
+	margin-left: 45%;
+	margin-right: 45%;
+}
+
+.under-line-portfolio {
+	background-color:grey;
+	width : 150px;
+	height : 10px;
+	margin-left:42%;
+}
+.fog {
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+
+.hover-port:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100);
+}
+.connect-me {
+	position: fixed;
+	margin-left:89%;
+	z-index:10;
+	height :160px;
+	width : 50px;
+	background-color: orange;
+}
+.icon {
+	width : 90px;
+	height : 90px;
+}
+.connect-me-2 {
+	position: fixed;
+	margin-left:89%;
+	z-index:10;
+	height :80px;
+	width : 90px;
+	background-color: orange;
+}
